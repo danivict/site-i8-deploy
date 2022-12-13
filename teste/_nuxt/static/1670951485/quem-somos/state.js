@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F\u002F_nuxt\u002Fstatic\u002F1670951485",layout:"default",error:a,serverRendered:true,routePath:"\u002Fquem-somos",config:{_app:{basePath:"\u002F\u002F",assetsPath:"\u002F\u002F_nuxt\u002F",cdnURL:a}}}}(null));
